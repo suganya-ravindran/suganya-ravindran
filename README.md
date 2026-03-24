@@ -7,9 +7,9 @@
 ## 🚀 About Me
 I am a technical professional with over 6 years of experience in operations and technical support, now transitioning into **Cloud Architecture and DevOps**. I specialize in architecting secure, resilient, and cost-optimized serverless solutions on AWS. My background includes deep-dive API infrastructure management and data compliance, which I now apply to building automated, global cloud deployments.
 
--  telescope **I’m currently working on:** Expanding my portfolio with enterprise-grade hybrid cloud monitoring solutions.
-- gear **I’m currently learning:** AWS Cloud Practitioner certification and advanced Terraform (IaC).
-- speech_balloon **Ask me about:** AWS Serverless architecture, Python automation, and Splunk observability.
+- :telescope: **I’m currently working on:** Expanding my portfolio with enterprise-grade hybrid cloud monitoring solutions.
+- :gear: **I’m currently learning:** AWS Cloud Practitioner certification and advanced Terraform (IaC).
+- :speech_balloon: **Ask me about:** AWS Serverless architecture, Python automation, and Splunk observability.
 
 ---
 

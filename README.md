@@ -21,7 +21,8 @@ I am a technical professional with over 6 years of experience in operations and 
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+    <img src="https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white" alt="ServiceNow" />
 </div>
 
 ### **Languages & Scripting**
@@ -30,6 +31,7 @@ I am a technical professional with over 6 years of experience in operations and 
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ---
@@ -37,7 +39,7 @@ I am a technical professional with over 6 years of experience in operations and 
 ## 📂 Featured Projects
 
 ### 📊 Enterprise Hybrid Cloud Monitor
-Architected a secure monitoring system using a Linux Control Node to monitor a private Windows Server 2022 instance. 
+Architected a secure hybrid monitoring system, deploying a Linux Control Node to actively monitor a private Windows Server 2022 instance. 
 - Developed **Python automation** to bypass ICMP blocks and log health data every 30 seconds.
 - Integrated **Splunk Enterprise** for real-time dashboards, reducing outage detection latency to near-zero.
 
@@ -54,8 +56,8 @@ Deployed a high-availability static website using **S3, CloudFront, and Route53*
 ---
 
 ## 📈 GitHub Stats
-![Suganya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suganya-ravindran&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suganya-ravindran&layout=compact&theme=radical)
+![Suganya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suganya-ravindran&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suganya-ravindran&layout=compact&theme=tokyonight)
 
 ---
 

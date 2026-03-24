@@ -39,35 +39,50 @@ I am a technical professional with over 6 years of experience in operations and 
 ## 📂 Featured Projects
 
 ### 📊 Enterprise Hybrid Cloud Monitor
-Architected a secure monitoring system using a Linux Control Node to monitor a private Windows Server 2022 instance. 
-- Developed **Python automation** to bypass ICMP blocks and log health data to Splunk.
-- Integrated **Splunk Enterprise** for real-time dashboards, reducing outage detection latency to near-zero.
+- Architected a secure hybrid monitoring system, deploying a Linux Control Node to actively monitor the health of a private Windows Server 2022 instance.
+- Developed custom Python automation (healthcheck.py) to bypass standard ICMP blocks, executing continuous connectivity checks and logging status data every 30 seconds.
+- Implemented Splunk Enterprise for centralized log ingestion, creating real-time dashboards that visualize server uptime and reduced outage detection latency to near-zero.
 
 ### ☕ Café Clickstream Analytics
-Engineered an observability solution for high-traffic web apps on Amazon EC2.
-- Used **CloudWatch Logs Insights** to identify root causes of HTTP 500 errors in under 15 minutes.
-- Built custom dashboards to visualize server performance and user geolocation in real-time.
+- Engineered a monitoring solution for a high-traffic web application on Amazon EC2, installing and configuring CloudWatch Agents to ingest custom Apache server logs.
+- Diagnosed a critical revenue drop (HTTP 500 errors) using CloudWatch Logs Insights, filtering thousands of log lines to identify the root cause in under 15 minutes.
+- Visualized traffic patterns by building custom dashboards, enabling the business to track user geolocation and server performance in real-time.
 
 ### 🌐 Serverless Cloud Portfolio Deployment
-Deployed a high-availability static website using **S3, CloudFront, and Route53**.
-- Implemented **Origin Access Control (OAC)** and HTTPS/TLS for end-to-end security.
-- Automated deployment workflows using **Git** for seamless live updates and 99.99% uptime.
+- Architected a secure, high-availability static website by integrating Amazon S3 for durable storage and Amazon CloudFront (CDN) for low-latency global delivery.
+- Enforced end-to-end security by implementing HTTPS/TLS encryption and configuring OAC (Origin Access Control) to restrict public bucket access.
+- Automated deployment workflows using Git for version control, ensuring seamless updates to the live production environment.
+Demonstrated cost optimization by leveraging serverless architecture to eliminate idle compute costs while maintaining 99.99% uptime.
 
 ---
 
 ## 💼 Professional Experience
 
 **Operations Specialist | Kaleyra** (Sept 2022 – June 2023)
-- Resolved 95% of delivery failures for global SMS/WhatsApp API traffic through deep-dive analysis of error logs.
-- Orchestrated technical onboarding for enterprise clients to the Meta/WhatsApp Business API.
+- Engineered reliability fixes for global SMS and WhatsApp API traffic, resolving 95% of delivery failures through deep-dive analysis
+of API error logs and callback URLs.
+- Orchestrated the technical onboarding of enterprise clients to the Meta/WhatsApp Business API, configuring webhooks, templates,
+and catalog settings to ensure successful launch.
+- Optimized campaign performance by extracting and analyzing daily delivery reports, providing actionable insights that improved
+message success rates for key clients.
+- Collaborated with NOC and Global Connectivity teams to escalate and resolve complex routing issues, ensuring SLA compliance for
+critical messaging infrastructure.
 
 **Advanced Tax Analyst | Ernst & Young** (May 2019 – Sept 2022)
-- Led process automation for the "Eco Bonus" blockchain project, modernizing legacy remediation tracking.
-- Managed complex compliance workflows and ensured 100% adherence to data governance standards.
+- Streamlined complex compliance workflows for mobile employees, managing end-to-end assignment lifecycles and ensuring 100%
+adherence to strict internal data governance standards.
+- Led process automation initiatives for the "Eco Bonus" blockchain project, managing loader plans and document transitions to
+modernize legacy environmental remediation tracking.
+- Mentored junior analysts on structured problem-solving and executional excellence, reducing error rates in tax document
+processing and payroll calculations.
+- Served as the primary technical point of contact for global clients, resolving inquiries regarding data integrity and billing
+discrepancies with high accuracy.
 
 **Technical Support Executive | IBM** (Aug 2016 – Aug 2018)
-- Diagnosed critical IT incidents and network failures, maintaining a 95% first-contact resolution rate.
-- Documented technical solutions in **ServiceNow** to contribute to a knowledge base that reduced ticket volume.
+- Diagnosed and resolved critical IT incidents, including network connectivity failures, virus infections, and system crashes,
+maintaining a 95% first-contact resolution rate.
+- Administered user security and access across enterprise environments, troubleshooting software conflicts and enforcing security protocols for remote users.
+- Collaborated with cross-functional engineering teams to document technical solutions in ServiceNow, contributing to a knowledge base that reduced recurring ticket volume.
 
 ---
 

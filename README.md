@@ -7,9 +7,9 @@
 ## 🚀 About Me
 I am a technical professional with over 6 years of experience in operations and technical support, now transitioning into **Cloud Architecture and DevOps**. I specialize in architecting secure, resilient, and cost-optimized serverless solutions on AWS. My background includes deep-dive API infrastructure management and data compliance, which I now apply to building automated, global cloud deployments.
 
-- 🔭 **I’m currently working on:** Expanding my portfolio with enterprise-grade hybrid cloud monitoring solutions.
-- ⚙️ **I’m currently learning:** AWS Cloud Practitioner certification and advanced Terraform (IaC).
-- 💬 **Ask me about:** AWS Serverless architecture, Python automation, and Splunk observability.
+-  telescope **I’m currently working on:** Expanding my portfolio with enterprise-grade hybrid cloud monitoring solutions.
+- gear **I’m currently learning:** AWS Cloud Practitioner certification and advanced Terraform (IaC).
+- speech_balloon **Ask me about:** AWS Serverless architecture, Python automation, and Splunk observability.
 
 ---
 
@@ -39,19 +39,35 @@ I am a technical professional with over 6 years of experience in operations and 
 ## 📂 Featured Projects
 
 ### 📊 Enterprise Hybrid Cloud Monitor
-Architected a secure hybrid monitoring system, deploying a Linux Control Node to actively monitor a private Windows Server 2022 instance. 
-- Developed **Python automation** to bypass ICMP blocks and log health data every 30 seconds.
+Architected a secure monitoring system using a Linux Control Node to monitor a private Windows Server 2022 instance. 
+- Developed **Python automation** to bypass ICMP blocks and log health data to Splunk.
 - Integrated **Splunk Enterprise** for real-time dashboards, reducing outage detection latency to near-zero.
 
 ### ☕ Café Clickstream Analytics
 Engineered an observability solution for high-traffic web apps on Amazon EC2.
 - Used **CloudWatch Logs Insights** to identify root causes of HTTP 500 errors in under 15 minutes.
-- Built custom dashboards to visualize server performance and user geolocation.
+- Built custom dashboards to visualize server performance and user geolocation in real-time.
 
 ### 🌐 Serverless Cloud Portfolio Deployment
 Deployed a high-availability static website using **S3, CloudFront, and Route53**.
 - Implemented **Origin Access Control (OAC)** and HTTPS/TLS for end-to-end security.
-- Automated deployment workflows using Git for seamless live updates.
+- Automated deployment workflows using **Git** for seamless live updates and 99.99% uptime.
+
+---
+
+## 💼 Professional Experience
+
+**Operations Specialist | Kaleyra** (Sept 2022 – June 2023)
+- Resolved 95% of delivery failures for global SMS/WhatsApp API traffic through deep-dive analysis of error logs.
+- Orchestrated technical onboarding for enterprise clients to the Meta/WhatsApp Business API.
+
+**Advanced Tax Analyst | Ernst & Young** (May 2019 – Sept 2022)
+- Led process automation for the "Eco Bonus" blockchain project, modernizing legacy remediation tracking.
+- Managed complex compliance workflows and ensured 100% adherence to data governance standards.
+
+**Technical Support Executive | IBM** (Aug 2016 – Aug 2018)
+- Diagnosed critical IT incidents and network failures, maintaining a 95% first-contact resolution rate.
+- Documented technical solutions in **ServiceNow** to contribute to a knowledge base that reduced ticket volume.
 
 ---
 

@@ -51,12 +51,11 @@ Technical Support Executive | IBM (2016 – 2018)
 
 Maintained a 95% first-contact resolution rate for enterprise IT incidents using ServiceNow.
 
-📈 Stats & Connect
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=suganya-ravindran&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suganya-ravindran&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
-</p>
+## 📈 GitHub Activity
+- 🏆 **Experience:** 6+ Years in Tech & Ops
+- 🎓 **Current GPA:** 3.94 (AAS Cloud Computing)
+- 💻 **Top Tools:** AWS, Terraform, Python, GitHub Actions
 
-📫 Let's Connect: LinkedIn | Email
+📫 Let's Connect: **LinkedIn:** [suganya-ravindran](https://linkedin.com/in/suganya-ravindran) | **Email:** suganyar82@gmail.com
 
 📍 Location: Rexburg, Idaho (Open to Remote/Relocation for 2026)

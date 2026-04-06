@@ -56,11 +56,21 @@ I am a technical professional bridging the gap between **Global Operations/Compl
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=suganya-ravindran&show_icons=true&theme=tokyonight" alt="Suganya's Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suganya-ravindran&layout=compact&theme=tokyonight" alt="Top Langs" width="300" />
-</p>
+## 📈 Technical Impact & Activity
+| Metric | Details |
+| :--- | :--- |
+| 🏆 **Professional Experience** | 6+ Years (IBM, EY, Kaleyra) |
+| 🎓 **Academic Standing** | 3.94 GPA | MSIT Candidate |
+| 💻 **Top Ecosystems** | AWS, Linux, Terraform, GitHub Actions |
+| 🛠️ **Active Projects** | Enterprise Hybrid Monitoring, Serverless Portfolio |
+| 🎯 **Target** | Cloud & DevOps Internships 2026 |
+
+---
+
+### ⚡ Professional Summary
+- **60+ Technical resolved incidents** (IBM Technical Support)
+- **100% Compliance Adherence** (EY Advanced Tax Analysis)
+- **95% Success Rate** on Global API Deliveries (Kaleyra Ops)
 
 ---
 

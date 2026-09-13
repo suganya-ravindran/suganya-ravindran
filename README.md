@@ -93,7 +93,7 @@ Technical professional with **6+ years across IBM, EY, and Kaleyra**, now specia
 
 | Degree | Status | Highlight |
 |:---|:---|:---|
-| MS in Information Technology | In Progress | Specializing in Cloud Architecture |
+| MS in Information Technology | In Progress | Specializing in Project Management |
 | AAS in Cloud Computing | Completed | GPA: **3.94** |
 | B.Sc. | Completed | — |
 

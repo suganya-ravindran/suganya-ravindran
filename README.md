@@ -94,14 +94,14 @@ Technical professional with **6+ years across IBM, EY, and Kaleyra**, now specia
 | Degree | Status | Highlight |
 |:---|:---|:---|
 | MS in Information Technology | In Progress | Specializing in Project Management |
-| AAS in Cloud Computing | Completed | GPA: **3.94** |
+| AAS in Cloud Computing | Completed | GPA: **3.95** |
 | B.Sc. | Completed | — |
 
 ---
 
 ## 📫 Let's Connect
 
-I'm actively seeking **2026 Cloud Engineering, DevOps, or SRE internships** — open to remote roles and relocation.
+I'm actively seeking **2026 Cloud Solutions, Cloud Engineering, DevOps, or SRE internships** — open to remote roles and relocation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-suganya--ravindran-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/suganya-ravindran)
 [![Email](https://img.shields.io/badge/Email-suganyar82%40gmail.com-D44638?style=flat-square&logo=gmail)](mailto:suganyar82@gmail.com)

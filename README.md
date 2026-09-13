@@ -1,6 +1,6 @@
 # Hi, I'm Suganya Ravindran 👋
 
-### MS in Information Technology Candidate · AAS Cloud Computing (GPA: 3.94) · B.Sc. Graduate
+### MS in Information Technology Project Managemnet Candidate · AAS Cloud Computing (GPA: 3.95) · B.Sc. Graduate
 **6+ Years Professional Experience (IBM · EY · Kaleyra) → Aspiring Cloud Architect & DevOps Engineer**
 
 ![Open to Internships](https://img.shields.io/badge/Open%20to-2026%20Internships-0A7ABE?style=flat-square)
